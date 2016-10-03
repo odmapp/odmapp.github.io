@@ -7,7 +7,7 @@ description: |
   A melhor decisão está aqui
 owner: ODM # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
-email: develop.optl@gmail.com
+email: develop.opt@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://odmapp.com" # the base hostname & protocol for your site
 social:
